@@ -1,11 +1,11 @@
 # Azure Bot Framework Setup
-
+---
 ## 1. Prerequisites
  - Register Azure account
  - Install Visual Studio 2017 for Windows.
  - In Visual Studio, update all extensions to their latest versions.
  - Download the Bot Application, Bot Controller, and Bot Dialog templates and install the template by saving the .zip file to your Visual Studio 2017 project templates directory.
-
+---
 ## 2. Create and test Bot Application
 ### 2.1. Click "File -> New -> Project" and select Bot Application
 ![](images/create1.png)
@@ -21,7 +21,7 @@ Debug the Bot Application in Visual Studio
 Check the hostname and port number from the internet explorer and put it into Bot Framework Emulator
 ![](images/create5.png)
 Then test if the bot can response or not
-
+---
 ## 3. Publish the Bot Application to Azure
 ### 3.1. Right click solution explorer to click "Publish"
 ![](images/solutionExplore.png)
@@ -35,7 +35,7 @@ If it is published successfully, Internet explorer will show the App url
 Go to: https://portal.azure.com/
 Click into the Bot Application and check the details
 ![](images/publish4.png)
-
+---
 ## 4. Connect the Bot Application to Telegram
 ### 4.1. Register a bot
 Go to https://dev.botframework.com/ and register a bot
