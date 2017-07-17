@@ -61,7 +61,7 @@
 ###### Enter the token from Telegram
 ![](images/connect8.png)
 ### 4.6. Find your Bot and test it
-![](images/connect9.png)
+![](images/connect9.PNG)
 
 
 
