@@ -36,7 +36,7 @@
 ###### Click into the Bot Application and check the details
 ![](images/publish4.png)
 ---
-## 4. Connect the Bot Application to Telegram
+## 4. Connect the Bot Application to Skype and Telegram
 ### 4.1. Register a bot
 ###### Go to https://dev.botframework.com/ and register a bot
 ![](images/connect1.png)
@@ -50,17 +50,21 @@
 ### 4.4. Test it from the Bot Framework Web
 ###### Go to https://dev.botframework.com/ and test if the bot can response or not
 ![](images/connect5.png)
-### 4.5. Register a new Bot from Telegram
+### 4.5. Click "Skype" in your channel
+![](images/skype1.png)
+### 4.6. Add the BOt into your skype contact
+![](images/skype2.png)
+### 4.7. Register a new Bot from Telegram
 ![](images/connect6.png)
-###### 4.5.1. Find BotFather in Telegram
-###### 4.5.2. Enter the Telegram Bot name
-###### 4.5.3. Copy the token
-### 4.5. Add Telegram Channel from the Bot Application
+###### 4.7.1. Find BotFather in Telegram
+###### 4.7.2. Enter the Telegram Bot name
+###### 4.7.3. Copy the token
+### 4.8. Add Telegram Channel from the Bot Application
 ###### Go to https://dev.botframework.com/ and select the Bot. Then add a Telegram channel
 ![](images/connect7.png)
 ###### Enter the token from Telegram
 ![](images/connect8.png)
-### 4.6. Find your Bot and test it
+### 4.9. Find your Bot and test it
 ![](images/connect9.PNG)
 
 
