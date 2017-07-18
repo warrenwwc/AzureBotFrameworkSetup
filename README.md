@@ -51,9 +51,9 @@
 ###### Go to https://dev.botframework.com/ and test if the bot can response or not
 ![](images/connect5.png)
 ### 4.5. Click "Skype" in your channel
-![](images/skype1.png)
-### 4.6. Add the BOt into your skype contact
-![](images/skype2.png)
+![](images/skype1.PNG)
+### 4.6. Add the Bot into your skype contact
+![](images/skype2.PNG)
 ### 4.7. Register a new Bot from Telegram
 ![](images/connect6.png)
 ###### 4.7.1. Find BotFather in Telegram
